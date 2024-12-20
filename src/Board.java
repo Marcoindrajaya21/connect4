@@ -1,6 +1,15 @@
 package connectfour;
 import java.awt.*;
 
+/**
+ * ES234317-Algorithm and Data Structures
+ * Semester Ganjil, 2024/2025
+ * Group Capstone Project
+ * Group #1
+ * 1 - 5026231019 - Nathaniel Lado Hadi Winata
+ * 2 - 5026231031 - Marco Indrajaya
+ */
+
 public class Board {
     // Define named constants
     public static final int ROWS = 6;  // 6x7 grid for Connect Four
