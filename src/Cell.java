@@ -1,6 +1,17 @@
 package connectfour;
 import java.awt.*;
 
+
+/**
+ * ES234317-Algorithm and Data Structures
+ * Semester Ganjil, 2024/2025
+ * Group Capstone Project
+ * Group #1
+ * 1 - 5026231019 - Nathaniel Lado Hadi Winata
+ * 2 - 5026231031 - Marco Indrajaya
+ */
+
+
 public class Cell {
     public static final int SIZE = 100; // cell width/height (square)
     public static final int PADDING = SIZE / 10;
